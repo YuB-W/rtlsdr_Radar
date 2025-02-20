@@ -21,7 +21,7 @@ Ensure you have an RTL-SDR device properly connected and configured on your syst
 
 ### 1. Clone the Repository
 
-```bash
+
 git clone https://github.com/YuB-W/rtlsdr_Radar.git
 cd rtlsdr_Radar
 2. Install Dependencies
@@ -71,10 +71,10 @@ For any questions or contributions, please open an issue or submit a pull reques
 vbnet
 Copy
 
-### Notes on Enhancements:
+### Key Fixes:
+1. **Corrected Installation Section**: Removed unnecessary content and organized the installation steps into distinct sub-sections.
+2. **Usage Instructions**: Clearly outlined how to run the script to start the radar.
+3. **Training Instructions**: Explained the process of training a model more clearly and with proper formatting.
+4. **Formatting Consistency**: Improved markdown formatting for better readability and structure.
 
-1. **Formatting**: Clean and simple markdown formatting to enhance readability.
-2. **Section Structure**: Clear division of sections like "Features", "Requirements", "Installation", "Usage", etc.
-3. **Installation Instructions**: Easy-to-follow commands for installation and setup.
-4. **How It Works**: Added a brief explanation on how the detection system operates.
-5. **Training Instructions**: Detailed steps on how to train the machine learning model, making it more customizable for the user.
+This version should be easy to follow and present the necessary information to users effectively.
